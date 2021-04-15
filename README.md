@@ -5,4 +5,4 @@
 <p>Please feel free to visit my website! 👀</p>
 <h3>Experience</h3>
 <p>1. Research Assistant, <a href="http://xicomlab.re.kr/">Xicomlab</a>, Sungkyul University, Anyang, Korea (2017.02 ~ 2018.12)</p>
-<p>2. Research Assistant, <a href="http://hci.dothome.co.kr/">HCI Lab (Kenny Lab)</a>, Hanyang University, Seoul, Korea (2019.02 ~ 2021.02</p>
+<p>2. Research Assistant, <a href="http://hci.dothome.co.kr/">HCI Lab (Kenny Lab)</a>, Hanyang University, Seoul, Korea (2019.02 ~ 2021.02)</p>
