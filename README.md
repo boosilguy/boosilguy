@@ -1,5 +1,5 @@
 <h1>Hi there 👋</h1>
-<p>I am Keonhee Park who is is interested in Virtual Reality and Unity Programming.
+<p>I am Keonhee Park who is interested in Virtual Reality and Unity Programming.
 <h3>Curriculum Vitae</h3>
 <a href="http://keonheepark.kro.kr/">✨ KeonheePark's Island ✨</a>
 <p>Please feel free to visit my website! 👀</p>
